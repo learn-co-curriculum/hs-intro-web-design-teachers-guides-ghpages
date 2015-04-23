@@ -1,6 +1,14 @@
 ##Git and Github - Part 2
 
 ### SWABTS
+Students will put their work on Github and deploy their site with GH Pages
+  + Initialize a local repository
+  + Add and commit their work locally
+  + Create a remote repository
+  + link their local directory with the remote repository
+  + Push their work to Github
+  + Create a feature branch
+  + Deploy with GH Pages
 
 ### Motivation / Why Should You Care?
 Now that you’ve got your site going we’re ready to start deploying our changes and sharing it with the world. If your site doesn’t look exactly how you want it to yet, don’t worry! You can make as many changes as you want before you send out the link to share with other people. We’re just going to show you the process for getting your site set up and deploying changes.
