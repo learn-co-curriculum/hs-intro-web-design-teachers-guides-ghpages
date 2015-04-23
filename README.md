@@ -1,7 +1,5 @@
-##Git and Github - Part 2
-
-### SWABTS
-Students will put their work on Github and deploy their site with GH Pages
+### SWBATs
+***Students will be able to put their work on Github and deploy their site with GH Pages***
   + Initialize a local repository
   + Add and commit their work locally
   + Create a remote repository
