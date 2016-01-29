@@ -81,4 +81,4 @@ Not only is Github a powerful tool for storing your work, version control, and c
 ### Hints and Hurdles
 + Concept of branches can be really confusing. Tree analogy is helpful - Master is like the trunk of the tree and is always the stable working version. If you wanted to build a new feature, like letting a user upload a profile picture, you would create a branch. Creating the branch will photocopy all the work that's on master, and move it to the branch. When you're finished you merge that branch back in with Master
 + GH Pages is a little different, GH Pages is whatever you want deployed.
-<a href='https://learn.co/lessons/hs-intro-web-design-teachers-guides-ghpages' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-teachers-guides-ghpages' title='Git and Github - Part 2'>Git and Github - Part 2</a> on Learn.co and start learning to code for free.</p>
